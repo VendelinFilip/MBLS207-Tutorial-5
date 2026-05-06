@@ -8,4 +8,4 @@
 
 Today, you have learned about sequence conservation. You have learned to interpret sequence logos and identify conserved (regions in) genes or proteins. You have seen that some proteins of the crAssphage are more conserved than others, and that within a protein, some amino acids are more conserved than others. Finally, you have seen how PSI-BLAST, which makes use of sequence conservation, can be used to perform sensitive sequence similarity searches and find distantly related proteins.
 
-![](./images/mbls207_tutorial5_5.png "Figure 1. Flow diagram of the steps in Position Specific Iterated-BLAST (PSI-BLAST)")
+<img src="./images/mbls207_tutorial5_5.png" width="513" height="622">
