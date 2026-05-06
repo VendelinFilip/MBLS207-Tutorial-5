@@ -30,13 +30,25 @@ ATAGATTTG
   <li>Look at the <a href="https://en.wikipedia.org/wiki/Sequence_logo">sequence logos</a> of (regions of) four different crAssphage proteins below. Each of these sequence logos was based on an alignment of proteins from >200 different crAssphages. What differences do you see? Are all proteins similarly conserved? Provide a biological explanation why different proteins could be conserved to different degrees.</li>
 </ol>
 
-&lt;img&gt;Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp27 from different crAss-like viruses.&lt;/img&gt;
+![](./images/mbls207_tutorial5_1.png "Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp27 from different crAss-like viruses.")
+*Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of **KP06_gp27** from different crAss-like viruses.*
 
-Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp38 from different crAss-like viruses.
+Very conserved region of the protein, almost no differences and if any they only stay within the chemical properties V->I. This protein would be essential for the virus function, no changes to it are allowed.
 
-&lt;img&gt;Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp51 from different crAss-like viruses.&lt;/img&gt;
+![](./images/mbls207_tutorial5_2.png "Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp38 from different crAss-like viruses.")
+*Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of **KP06_gp38** from different crAss-like viruses.*
 
-Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp85 from different crAss-like viruses.
+Basically perfectly conserved, probably the catalytic/binding site of an essential protein.
+
+![](./images/mbls207_tutorial5_3.png "Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp51 from different crAss-like viruses.")
+*Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of **KP06_gp51** from different crAss-like viruses.*
+
+There seem to essential residues in this protein part, like an aspartic acid in the middle, but other residues are not as highly conserved. In general however there seems to be homology between the proteins.
+
+![](./images/mbls207_tutorial5_4.png "Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp85 from different crAss-like viruses.")
+*Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of **KP06_gp85** from different crAss-like viruses.*
+
+Slightly more conserved than the one before, more highly conserved amino acids but some other residues differ more.
 
 <ol type="a" start="8">
   <li>How can you recognize from a sequence logo which amino acids are probably the most important for the function of a protein? Give an explanation that considers the evolution of the protein. Which residues are probably important for the function of KP06_gp85? And which residues are probably less important for the function of that protein? How about KP06_gp38?</li>
