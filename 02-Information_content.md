@@ -38,9 +38,8 @@ Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 hom
 
 Sequence logo of residues 61-120 of an amino acid sequence alignment of >200 homologs of KP06_gp85 from different crAss-like viruses.
 
----
+<ol type="a" start="8">
+  <li>How can you recognize from a sequence logo which amino acids are probably the most important for the function of a protein? Give an explanation that considers the evolution of the protein. Which residues are probably important for the function of KP06_gp85? And which residues are probably less important for the function of that protein? How about KP06_gp38?</li>
+</ol>
 
-
-## Page 4
-
-h. How can you recognize from a sequence logo which amino acids are probably the most important for the function of a protein? Give an explanation that considers the evolution of the protein. Which residues are probably important for the function of KP06_gp85? And which residues are probably less important for the function of that protein? How about KP06_gp38?
+[Go to module 3](03-Inferring_protein_function.md)
