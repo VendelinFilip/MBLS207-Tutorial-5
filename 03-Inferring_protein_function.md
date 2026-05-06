@@ -67,13 +67,13 @@ Now download the KP06_gp75 sequence in FASTA format. To do that, go to RefSeq pa
 
 Now use the correct ‘flavour’ of BLAST to search this protein against the virus database, and set “KP06_gp75_vs_viralRefSeq.blastp” as output file name. How many hits do you obtain? How many of these hits are informative? Can you explain what the first hit represents? Can you venture anything about this protein’s function based on these results?
 
-k. One of the reasons that you got only a few hits when searching for homologs of protein KP06_gp75 in viruses, is that viruses are fast-evolving organisms. This means that their gene and protein sequences are not very well conserved and detecting homologs with standard approaches like BLAST is difficult. One solution is to use Position-Specific Iterated BLAST (PSI-BLAST, see Box 2). Query the sequence of protein KP06_gp75 again the viral database with PSI-BLAST. Use an e-value threshold of 0.001, “KP06_gp75_vs_viralRefSeq.psiblast” as output file name and 2 as the number
+<ol type="a" start="11">
+  <li>
+    One of the reasons that you got only a few hits when searching for homologs of protein KP06_gp75 in viruses, is that viruses are fast-evolving organisms. This means that their gene and protein sequences are not very well conserved and detecting homologs with standard approaches like BLAST is difficult. One solution is to use Position-Specific Iterated BLAST (PSI-BLAST, see Box 2). Query the sequence of protein KP06_gp75 again the viral database with PSI-BLAST. Use an e-value threshold of 0.001, “KP06_gp75_vs_viralRefSeq.psiblast” as output file name and 2 as the number of iterations. How many more hits do you obtain? Can you speculate further about the function of this protein?
+  </li>
+  <li>
+    Let's give a final try to the functional annotation of this protein. Go to <a href="https://www.ebi.ac.uk/interpro/search/sequence/">https://www.ebi.ac.uk/interpro/search/sequence/</a>, and search this sequence. Do you think the results help interpret something about the function of the protein, or why it is so hard to annotate it? Compare the results with those of <a href="https://www.ncbi.nlm.nih.gov/protein/YP_010509486.1?report=fasta">KP06_gp80</a>.
+  </li>
+</ol>
 
----
-
-
-## Page 6
-
-of iterations. How many more hits do you obtain? Can you speculate further about the function of this protein?
-
-I. Let's give a final try to the functional annotation of this protein. Go to https://www.ebi.ac.uk/interpro/search/sequence/, and search this sequence. Do you think the results help interpret something about the function of the protein, or why it is so hard to annotate it? Compare the results with those of KP06_gp80.
+[Go to module 4](04-Gene_prediction.md)
