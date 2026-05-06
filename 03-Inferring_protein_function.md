@@ -1,5 +1,4 @@
-
-3. Inferring protein function
+# 3. Inferring protein function
 
 Download the Mac/Linux BLAST+ 'tar.gz' compressed file from the NCBI website at https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/. This software will take up 500 Mb when decompressed; make sure this is OK with your computer setup.
 
@@ -29,16 +28,14 @@ ncbi-blast-2.15.0+/bin/blastp -help
 # get a general idea of what they do
 ```
 
-i. Open the page for protein KP06_gp75 in RefSeq (https://www.ncbi.nlm.nih.gov/protein/YP_010509481.1). What is the functional annotation? What does this mean? (Hint: use the internet to find your answer)
-
-j. We want to know what the possible function of this protein is. To do that, let's first download the database of virus proteins (viral.1.protein.faa.gz) from RefSeq at
-
----
-
-
-## Page 5
-
-https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/. Then, open the terminal and get the database ready for BLASTing.
+<ol type="a" start="9">
+  <li>
+    Open the page for protein KP06_gp75 in RefSeq (<a href="https://www.ncbi.nlm.nih.gov/protein/YP_010509481.1">https://www.ncbi.nlm.nih.gov/protein/YP_010509481.1</a>). What is the functional annotation? What does this mean? (Hint: use the internet to find your answer)
+  </li>
+  <li>
+    We want to know what the possible function of this protein is. To do that, let's first download the database of virus proteins (viral.1.protein.faa.gz) from RefSeq at <a href="https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/">https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/</a>. Then, open the terminal and get the database ready for BLASTing. 
+  </li>
+</ol>
 
 ```bash
 # Get to your MBLS207 folder and create a folder for today's tutorial
